@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @fcor2
-- 👀 I’m interested in statistical methods and prediction models for oncology/healthcare [and finance 🙄].
-- 🌱 I’m currently learning python.
+- 👀 I’m interested in statistical methods and prediction models for oncology/healthcare, consumer business and finance 🙄.
 - 📫 Reach me at francisco.correa@cantab.net
 
 <!---
